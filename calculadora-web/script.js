@@ -1,4 +1,4 @@
-
+//Diseño visual de la calculadora
 // Obtener la pantalla de la calculadora
 const pantalla = document.getElementById("pantalla");
 
